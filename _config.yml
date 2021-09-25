@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 浮生一日
 subtitle: ''
-description: ''
+description: '浮生一日的博客'
 keywords:
-author: John Doe
-language: en
+author: zxxia
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://zxxia2016.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -95,6 +95,27 @@ exclude:
 ignore:
 
 # Extensions
+# RSS
+# https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
+# 搜索
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://github.com/iissnan/hexo-theme-next themes/next
 theme: next
