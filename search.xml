@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2021/09/25/hello-world/</url>
+    <url>/2021/09/27/Hexo/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <span id="more"></span>
 
@@ -19,5 +19,191 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>反应慢的人如何让自己思维变得更加敏捷</title>
+    <url>/2021/09/26/Think/T1/</url>
+    <content><![CDATA[<ol>
+<li>参考链接：<a href="https://www.zhihu.com/question/23969437">https://www.zhihu.com/question/23969437</a></li>
+</ol>
+<span id="more"></span>
+
+<ol start="2">
+<li>看辩论赛：总结思维</li>
+<li>人际交往反应慢，往往事后才明白对方意思，怎么办？原文地址：<a href="https://kknews.cc/psychology/jqvekrl.html">https://kknews.cc/psychology/jqvekrl.html</a><ol>
+<li>针对思路对接不上的问题</li>
+</ol>
+</li>
+<li>理解数学中的充分必要条件：<ol>
+<li>充分不必要：<ol>
+<li>定义：A能推出B，即：A是B的真子集</li>
+<li>举例：天下雨了，地面一定湿。</li>
+</ol>
+</li>
+<li>必要不充分：<ol>
+<li>定义：B能推出A，A不能推出B</li>
+<li>举例：地面湿了，天一定下雨了。</li>
+</ol>
+</li>
+<li>额外举例：<ol>
+<li>聽到任何人說「因為XX所以OO」的時候，馬上思考兩個問題：<ol>
+<li>有沒有「有XX但是沒有OO」的狀況？</li>
+<li>有沒有「沒有XX但是也有OO」的狀況？</li>
+</ol>
+</li>
+<li>A是B的前提所以A比較重要<ol>
+<li>有沒有「A是B的前提但是A沒有比較重要」的狀況？</li>
+<li>有沒有「A不是B的前提但A還是比較重要」的狀況？</li>
+</ol>
+</li>
+<li>总结：<ol>
+<li>第一個問題就是找反例，找到反例就表示推論有問題。</li>
+<li>第二個問題則是提出競爭假說，這可以幫助我們對原本的推論進行修正或者找出更合理的推論。</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>思想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>迷茫思考</title>
+    <url>/2021/09/26/Think/T2/</url>
+    <content><![CDATA[<ul>
+<li><strong>Q</strong>: 人在迷茫时该干什么？</li>
+<li><strong>A</strong>: 参考链接：<a href="https://www.zhihu.com/question/22321313">https://www.zhihu.com/question/22321313</a> <a href="https://www.zhihu.com/question/20103232">https://www.zhihu.com/question/20103232</a></li>
+</ul>
+<span id="more"></span>
+]]></content>
+      <categories>
+        <category>思想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>生活经验</title>
+    <url>/2021/09/26/Life/Experience/FAQ/</url>
+    <content><![CDATA[<hr>
+<ul>
+<li><strong>Q</strong>: 出险不理赔有哪些解决方法</li>
+<li><strong>A</strong>: 向保险公司本身进行投诉外，还有当地保监局的信访办、市保险同业公会的保险纠纷调解委员会，甚至可以通过仲裁、诉讼等方法来解决。  </li>
+</ul>
+<hr>
+]]></content>
+      <categories>
+        <category>生活</category>
+        <category>生活经验</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>福鼎肉片制作视频教程</title>
+    <url>/2021/09/26/Life/Food/Fdrp/</url>
+    <content><![CDATA[<ol>
+<li>这是福鼎人做的央视视频：<a href="https://www.youtube.com/watch?v=FrzbZJ-aKz8">https://www.youtube.com/watch?v=FrzbZJ-aKz8</a></li>
+<li>视频教程：<a href="https://www.youtube.com/watch?v=rpeYUztmiwU">https://www.youtube.com/watch?v=rpeYUztmiwU</a></li>
+</ol>
+]]></content>
+      <categories>
+        <category>生活</category>
+        <category>美食</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>被讨厌的勇气</title>
+    <url>/2021/09/26/Think/Book/B1/</url>
+    <content><![CDATA[<ol>
+<li><p>人际关系的起点是”课题分离”，终点是”共同体感觉”，在共同体重找到自己的位置（归属感）</p>
+<span id="more"></span></li>
+<li><p>课题：</p>
+<ol>
+<li>学习课题</li>
+<li>工作课题</li>
+<li>交友课题</li>
+<li>爱的课题</li>
+<li>等等</li>
+</ol>
+</li>
+<li><p>共同体</p>
+<ol>
+<li>包含哪些:<ol>
+<li>家</li>
+<li>学校</li>
+<li>公司</li>
+<li>社会</li>
+<li>国家</li>
+<li>地球</li>
+<li>宇宙</li>
+<li>过去、现在、未来</li>
+<li>生物、非生物</li>
+</ol>
+</li>
+<li>意识到更大的共同体：<ol>
+<li>购买面包&gt;&gt;需要支付硬币&gt;&gt;面包店的人员&gt;&gt;小麦、黄油生产者&gt;&gt;物流人员&gt;&gt;汽油从业人员&gt;&gt;产油国人员</li>
+<li>上述环环相扣，紧密相连</li>
+</ol>
+</li>
+<li>跳出”杯中风暴”,就会变成微风、没有必要固执与眼前的小共同体，还有更多的”你我他”</li>
+</ol>
+</li>
+<li><p>建立共同体的感觉：</p>
+<ol>
+<li>不能评价他人，评价别人的话全部出于“纵向关系”</li>
+<li>给别人寄予关心、建立横向关系、使用鼓励法，这些都能够带给自己“我对别人有用”这一实际感受（体现自己的价值），继而就能增加生活的勇气</li>
+<li>看待他人的价值：<ol>
+<li>不要根据他的行为，要从“存在”标准上去接纳</li>
+<li>看待孩子要从零起点出来，对他的存在心存喜悦和感激</li>
+</ol>
+</li>
+<li>自我接纳&gt;&gt;他者信赖&gt;&gt;他者贡献&gt;&gt;体会到对他人有用，进而接受真是的自己&gt;&gt;自我接纳<ol>
+<li>不要自我肯定，要自我接纳；<ol>
+<li>自我肯定是指：明明做不到但还是暗示自己说“我能行”；自我接纳：指在接受自己60分的基础上努力思考“如何接近100分”；没有满分的人；这一点必须积极承认；</li>
+<li>分清：能够改变的和不能改变的；（达观）（看明白）</li>
+<li>不关注给予了什么，关注如何利用被给予的东西</li>
+<li>尼泊尔祈祷文：神啊;请赐与我宁静，好让我能接受，我无法改变的事情;请赐与我勇气，好让我能改变，我能去改变的事情;请赐与我智慧，好让我能区别，以上这两者的不同</li>
+</ol>
+</li>
+<li>他人信赖<ol>
+<li>不是信用：如果你还的话我就借给你;”如果对方讲信用我也给予信用”</li>
+<li>信赖：无条件的相信他人，即使有时遭遇背叛；好比贷款保证有时也会蒙受损失一样；即使遭到背叛，请你站在背叛者的立场上想一想</li>
+<li>信赖的反义词是怀疑，假设你把人际关系建立在怀疑的基础上，怀疑他人、怀疑朋友、怀疑家人或恋人，生活中处处充满怀疑，你认为还能建立起什么积极的关系吗</li>
+<li>只考虑我该怎么做，决定背叛不背叛是他人的课题</li>
+</ol>
+</li>
+<li>他者贡献<ol>
+<li>工作就是给人提供贡献：但表面上是贡献他人，但最终是为了自己，这逻辑是伪善？</li>
+<li>对家人，即使听不到谢谢，也应该思考的不是他人为我做了什么，而是我为他人做什么，并积极地加以实践</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>缺乏人生和谐的生活方式：只凭事物的一部分来判断整体的生活方式<ol>
+<li>举例：10个人，1人批判你，2个人接纳你，7个人两者都不是；关注批判你的那个人，就是缺乏人生和谐的生活方式</li>
+<li>世上并非全是好人，还有那些蛮不讲理地指责、攻击我的人；任何情况下都只是攻击者的问题，而绝不是“大家”的错；</li>
+<li>具有神经质生活方式的人尝尝使用“大家”“总是”一切之类的词语;“大家都讨厌自己”“总是只有自己受损失”“一切都不对”等；</li>
+</ol>
+</li>
+<li></li>
+</ol>
+</li>
+<li><p>警句保存：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">哲人:关于权力之争，还有一点需要注意。那就是无论认为自己多</span><br><span class="line">么正确，也不要以此为理由去责难对方。这是很多人都容易陷落进去的</span><br><span class="line">人际关系圈套。</span><br><span class="line">青年:为什么?</span><br><span class="line">哲人:人在人际关系中一旦确信”我是正确的“，那就已经步入了权 力之争。</span><br><span class="line">青年:仅仅是认为自己正确就会那样吗?不不，这也太夸张了吧?</span><br><span class="line">哲人:我是正确的，也就是说对方是错误的。一旦这样想，辩论的 焦点便会从”主张的正确性“变成了”人际关系的方式“。也就是说，”我 是正确的“这种坚信意味着坚持”对方是错误的“，最终就会演变成”所以 我必须获胜“之类的胜负之争。这就是完完全全的权力之争吧</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">追求优越性并不是通过与他人的竞争来完成的。</span><br></pre></td></tr></table></figure></li>
+</ol>
+]]></content>
+      <categories>
+        <category>思想</category>
+        <category>读书笔记</category>
+      </categories>
+      <tags>
+        <tag>心理学</tag>
+      </tags>
   </entry>
 </search>
